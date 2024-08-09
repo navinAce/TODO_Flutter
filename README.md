@@ -1,17 +1,35 @@
 # TODO Application
 
-**About**
+## Overview
 
-This TODO app was developed with Flutter as a learning project. It includes the source code for a task management app, demonstrating Flutter’s fundamental concepts and widgets. 
+This TODO app was developed using Flutter as a learning project. It showcases fundamental Flutter concepts and widgets by providing a task management solution.
 
-To access the app, click the link below. You may receive a warning about unsafe content; press "Open" to proceed and then "Install." Link to the app
+## Key Features
 
-## Key Features:
 - **Task Management**: Add, update, delete, and mark tasks as completed.
 - **User-Friendly Interface**: Simple and intuitive design for easy navigation.
-- **State Management**: Efficiently manage the state of tasks using Flutter's state management techniques.
+- **State Management**: Efficiently manages the state of tasks using Flutter's state management techniques.
 
-## Technologies Used:
+## Technologies Used
+
 - **Flutter**: For building the cross-platform mobile application.
-- **Visual Studio Code**: Used as the primary code editor.
-- **Android Studio**: Used as the emulator for testing the application.
+- **Visual Studio Code**: Primary code editor.
+- **Android Studio**: Emulator used for testing.
+
+## Installation
+
+To access and install the app:
+
+1. Click the link below to navigate to the Google Drive folder:
+   [Download TODO App](https://drive.google.com/drive/folders/1Qyehbj6g-UQnrb3CeKWdZZN0zfe-TEvT?usp=sharing)
+2. Download the app file from the folder.
+3. You may receive a warning about unsafe content; press "Open" to proceed and then "Install
+
+## Usage
+
+1. Open the app after installation.
+2. Use the app's intuitive interface to add, update, delete, and manage tasks.
+
+
+For any questions or feedback, feel free to reach out to [Gmail](navinraj99305@gmail.com).
+
